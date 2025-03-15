@@ -1,13 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DG;
 
+using DG.Tweening;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 5f;
     private Rigidbody2D rb;
     [SerializeField] private Animator animator;
- 
+    private int indexPlayer = 1;
+
+    public int IndexPlayer
+    {
+        get => this.indexPlayer;
+    }
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -21,6 +28,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Movement()
     {
+        //SoundManager.instance.PlayOneSound(SoundManager.instance.ListSound[4]);
         Vector2 playerInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         rb.velocity = playerInput.normalized * moveSpeed * Time.deltaTime;
         if (playerInput != Vector2.zero)
@@ -40,11 +48,13 @@ public class PlayerMovement : MonoBehaviour
             if(collision.TryGetComponent(out Door door))
             {
                 transform.position = door.PositionDoorConnect(gameObject);
+                if (door.DoorConnect == null) return;
+
+                transform.DOScale(Vector3.zero, 0.05f);
+                this.indexPlayer = door.DoorConnect.IndexRoom;
+                transform.DOScale(Vector3.one, 0.05f);
+                
             }
         }
-        /*if (collision.CompareTag("Chest"))
-        {
-
-        }*/
     }
 }

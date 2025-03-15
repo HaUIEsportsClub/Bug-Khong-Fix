@@ -5,8 +5,7 @@ using UnityEngine;
 public class Clock : MonoBehaviour
 {
     [SerializeField] private bool isNearPlayer = false;
-    [SerializeField] TimeManager timeManager;
-
+    [SerializeField] private ClickE clickE;
     private void Update()
     {
         this.Pickup();
@@ -14,19 +13,28 @@ public class Clock : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player")) isNearPlayer = true;
+        if (collision.CompareTag("Player"))
+        {
+            isNearPlayer = true;
+            //clickE.TrueActive(transform.position);
+        }
+
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player")) isNearPlayer = false;
+        if (collision.CompareTag("Player"))
+        {
+            isNearPlayer = false;
+            //clickE.FalseActive();
+        }
     }
 
     protected virtual void Pickup()
     {
         if (isNearPlayer && Input.GetKeyDown(KeyCode.E))
         {
-            timeManager.currentTime += 30f;
+            TimeManager.Instance.currentTime += 30f;
             Destroy(gameObject);
         }
     }

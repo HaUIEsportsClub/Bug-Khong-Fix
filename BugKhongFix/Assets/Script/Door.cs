@@ -6,8 +6,16 @@ public class Door : MonoBehaviour
 {
     [SerializeField] private Door doorConnect;
     [SerializeField] private GameObject connectMenu;
+    [SerializeField] private UIConnectGround uicc;
+    [SerializeField] private int indexRoom;
+
+    public int IndexRoom
+    {
+        get => this.indexRoom;
+    }
     public Door DoorConnect
     {
+        get => this.doorConnect;
         set => this.doorConnect = value;
     }
     [SerializeField] private bool isConnect;
@@ -27,6 +35,7 @@ public class Door : MonoBehaviour
         if (!this.isConnect)
         {
             this.connectMenu.SetActive(true);
+            uicc.CheckPosPlayer();
             return game.transform.position + CheckDirection();
         }
 

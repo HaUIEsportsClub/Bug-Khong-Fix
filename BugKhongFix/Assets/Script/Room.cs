@@ -55,22 +55,22 @@ public class Room : MonoBehaviour
                 this.isClickBtnUp = !this.isClickBtnUp;
             }
 
-            GameController.instance.UpDoor(door1, this.indexRoom);
+            GameController.Instance.UpDoor(door1, this.indexRoom);
         });
         btnDown.onClick.AddListener(delegate
         {
             btnDown.image.color = Color.yellow;
-            GameController.instance.UpDoor(door2, this.indexRoom);
+            GameController.Instance.UpDoor(door2, this.indexRoom);
         });
         btnLeft.onClick.AddListener(delegate
         {
             btnLeft.image.color = Color.yellow;
-            GameController.instance.UpDoor(door3, this.indexRoom);
+            GameController.Instance.UpDoor(door3, this.indexRoom);
         });
         btnRight.onClick.AddListener(delegate
         {
             btnRight.image.color = Color.yellow;
-            GameController.instance.UpDoor(door4, this.indexRoom);
+            GameController.Instance.UpDoor(door4, this.indexRoom);
         });
 
     }

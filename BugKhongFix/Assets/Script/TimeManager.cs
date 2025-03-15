@@ -5,24 +5,20 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class TimeManager : MonoBehaviour
+public class TimeManager : Singleton<TimeManager>
 {
     [SerializeField] public float startTime = 135f;
     [SerializeField] public float currentTime;
+
     [SerializeField] public int minutes;
     [SerializeField] public float seconds;
     [SerializeField] private TextMeshProUGUI textTime;
-    public static TimeManager instance;
 
     private void Awake()
     {
-        TimeManager.instance = this;
-
         currentTime = startTime;
         LoadTime();
     }
-    
-
     protected void LoadTime()
     {
         minutes = (int)startTime / 60;
@@ -30,13 +26,10 @@ public class TimeManager : MonoBehaviour
     }
     protected void CalculateTime()
     {
-        if (seconds <= 0) return;
-        seconds -= Time.deltaTime;
-        if (seconds <= 0)
-        {
-            minutes -= 1;
-            seconds = 60;
-        }
+        if (currentTime <= 0) return;
+
+        minutes = (int)currentTime / 60;
+        seconds = (int)(currentTime - minutes * 60);
     }
 
     public void UpdataTime()
@@ -45,9 +38,6 @@ public class TimeManager : MonoBehaviour
         {
             currentTime -= Time.deltaTime;
         }
-        else
-        {
-        }
         CalculateTime();
 
         textTime.text = this.minutes + " : " + (int)this.seconds;
@@ -55,7 +45,6 @@ public class TimeManager : MonoBehaviour
     private void Update()
     {
         this.UpdataTime();
-
     }
 
 }

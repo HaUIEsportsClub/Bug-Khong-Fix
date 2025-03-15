@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\BugKhongFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\nextmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\nextmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|d:\\unity\\bugkhongfix\\assets\\script\\sound\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sound\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\clicke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\clicke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\connectdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\connectdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\uiconnectground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uiconnectground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\Unity\\BugKhongFix\\assets\\script\\uikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Room.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Room.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Room.cs",
+              "RelativeToolTip": "Assets\\Script\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:29:39.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\TimeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TimeManager.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\TimeManager.cs",
+              "RelativeToolTip": "Assets\\Script\\TimeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:28:39.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Door.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Door.cs",
+              "RelativeToolTip": "Assets\\Script\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:23:30.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnectDoor.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\ConnectDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ConnectDoor.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\ConnectDoor.cs",
+              "RelativeToolTip": "Assets\\Script\\ConnectDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:23:28.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Clock.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Clock.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Clock.cs",
+              "RelativeToolTip": "Assets\\Script\\Clock.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:23:23.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClickE.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\ClickE.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ClickE.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\ClickE.cs",
+              "RelativeToolTip": "Assets\\Script\\ClickE.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:23:20.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UIKey.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\UIKey.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIKey.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\UIKey.cs",
+              "RelativeToolTip": "Assets\\Script\\UIKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:33:07.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Chest.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Chest.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Chest.cs",
+              "RelativeToolTip": "Assets\\Script\\Chest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:32:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NextMap.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\NextMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NextMap.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\NextMap.cs",
+              "RelativeToolTip": "Assets\\Script\\NextMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:23:45.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UIConnectGround.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\UIConnectGround.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIConnectGround.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\UIConnectGround.cs",
+              "RelativeToolTip": "Assets\\Script\\UIConnectGround.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:30:19.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Key.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Key.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Key.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Key.cs",
+              "RelativeToolTip": "Assets\\Script\\Key.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:34:03.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameController.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\GameController.cs",
+              "RelativeToolTip": "Assets\\Script\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:34:08.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Sound\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Sound\\SoundManager.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\Sound\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Sound\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:34:25.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Unity\\BugKhongFix\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "D:\\Unity\\BugKhongFix\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:56:59.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

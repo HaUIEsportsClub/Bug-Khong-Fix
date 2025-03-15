@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Chest : MonoBehaviour
 {
+    [SerializeField] private ClickE clickE;
     public GameObject key;
     private bool isOpen = false;
     private bool isPlayerNear = false;
@@ -25,7 +26,7 @@ public class Chest : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             isPlayerNear = true;
-            Debug.Log("Press E to Open");
+            //clickE.TrueActive(transform.position);
         }
     }
 
@@ -34,6 +35,7 @@ public class Chest : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             isPlayerNear = false;
+            //clickE.FalseActive();
         }
     }
 
