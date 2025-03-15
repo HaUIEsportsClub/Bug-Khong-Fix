@@ -9,7 +9,13 @@ public class GameController : Singleton<GameController>
 
     [SerializeField] private Door door1;
     [SerializeField] private Door door2;
+    [SerializeField] private GameObject UiGameOver;
     private int indexRoom = 0;
+
+    private void Update()
+    {
+        this.CheckGameOver();
+    }
     public void UpDoor(Door door, int indexDoor)
     {
 
@@ -43,6 +49,13 @@ public class GameController : Singleton<GameController>
         this.indexRoom = 0;
 
         this.connectMenu.SetActive(false);
+    }
 
+    public void CheckGameOver()
+    {
+        if(TimeManager.Instance.checkGameOver())
+        {
+            this.UiGameOver.SetActive(true);
+        }
     }
 }

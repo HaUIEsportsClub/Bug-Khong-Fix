@@ -47,4 +47,8 @@ public class TimeManager : Singleton<TimeManager>
         this.UpdataTime();
     }
 
+    public bool checkGameOver()
+    {
+        return this.currentTime <= 0;
+    }
 }
