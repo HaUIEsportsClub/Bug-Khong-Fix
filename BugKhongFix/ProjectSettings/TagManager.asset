@@ -39,12 +39,24 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 4218534389
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 1096107783
+    locked: 0
+  - name: Chest
+    uniqueID: 1424047775
+    locked: 0
+  - name: Wall
+    uniqueID: 3657594529
     locked: 0
   - name: Player
     uniqueID: 848263003
     locked: 0
-  - name: Chest
-    uniqueID: 1424047775
+  - name: LayerDe
+    uniqueID: 1886726839
     locked: 0
