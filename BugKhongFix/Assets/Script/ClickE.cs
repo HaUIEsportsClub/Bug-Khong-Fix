@@ -15,7 +15,7 @@ public class ClickE : MonoBehaviour
     public void FalseActive()
     {
         clickE.SetActive(false);
- 
+        
     }
 
     public void SetPosition(Vector3 pos)

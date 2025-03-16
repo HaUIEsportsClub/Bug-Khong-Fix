@@ -5,28 +5,37 @@ using UnityEngine;
 public class Chest : MonoBehaviour
 {
     [SerializeField] private ClickE clickE;
+    [SerializeField] private int indexChest;
     public GameObject key;
     private bool isOpen = false;
     private bool isPlayerNear = false;
     private Animator animator;
+    [SerializeField] private RuntimeAnimatorController controller;
+    [SerializeField] private UIKey uiKey;
     private void Start()
     {
         animator = GetComponent<Animator>();
+        animator.runtimeAnimatorController = null;
     }
     void Update()
     {
         if (isPlayerNear && !isOpen && Input.GetKeyDown(KeyCode.E))
         {
-            OpenChest();
+                OpenChest();
         }
+
     }
 
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
-            isPlayerNear = true;
-            //clickE.TrueActive(transform.position);
+            if(uiKey.CheckOpen(indexChest))
+            {
+                isPlayerNear = true;
+                clickE.TrueActive(transform.position);
+            }
+
         }
     }
 
@@ -35,15 +44,15 @@ public class Chest : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             isPlayerNear = false;
-            //clickE.FalseActive();
+            clickE.FalseActive();
         }
     }
 
     void OpenChest()
     {
         isOpen = true;
-        animator.SetBool("isOpen", true);
-        Debug.Log("Opened Chest!");
+        animator.runtimeAnimatorController = controller;
+        clickE.FalseActive();
 
         if (key != null)
         {
