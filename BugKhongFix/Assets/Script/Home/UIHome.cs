@@ -12,7 +12,7 @@ public class UIHome : MonoBehaviour
 
     [SerializeField] private Slider slider;
     [SerializeField] private float duration;
-
+    [SerializeField] private GameObject loading;
     private const float maxValueSlider = 100f;
     private float value = 0f;
     private Tweener tweener;
@@ -26,6 +26,7 @@ public class UIHome : MonoBehaviour
     {
         btnPlay.onClick.AddListener(delegate
         {
+            loading.SetActive(true);
             slider.gameObject.SetActive(true);
             StartLoading();
         });
