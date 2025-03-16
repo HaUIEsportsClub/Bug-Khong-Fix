@@ -7584,7 +7584,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: bc851e8d843d90a4baccd8ba3f8036fa, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -8008,7 +8008,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.070551805, g: 0.08273764, b: 0.10188681, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -23305,10 +23305,10 @@ MonoBehaviour:
   listSound:
   - {fileID: 8300000, guid: 0371473395c3dc44e918859e142b6926, type: 3}
   - {fileID: 8300000, guid: 0c3d8f2fb15b2af478d49cbf7616dba4, type: 3}
-  - {fileID: 8300000, guid: 7bcd2854a50a622438c1726c66d59fd3, type: 3}
+  - {fileID: 8300000, guid: 231e697cb8f9686419ce2f3ad357c479, type: 3}
   - {fileID: 8300000, guid: dd42d2025adda84438ae68514f57dcf8, type: 3}
-  - {fileID: 8300000, guid: 1570722a3116b73459c269c35036b440, type: 3}
-  audioSound: {fileID: 0}
+  - {fileID: 8300000, guid: 7bcd2854a50a622438c1726c66d59fd3, type: 3}
+  audioSound: {fileID: 1979607019}
   soundBackGround: {fileID: 492916933}
 --- !u!4 &1390615892
 Transform:
@@ -26585,7 +26585,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 0
   Mute: 0

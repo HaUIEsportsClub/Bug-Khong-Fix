@@ -37,7 +37,11 @@ public class PlayerMovement : MonoBehaviour
             animator.SetFloat("moveX", Input.GetAxisRaw("Horizontal"));
             animator.SetFloat("moveY", Input.GetAxisRaw("Vertical"));
         }
-        if (playerInput != Vector2.zero) animator.SetBool("isRunning", true);
+        if (playerInput != Vector2.zero)
+        {
+            animator.SetBool("isRunning", true);
+        }
+        
         else animator.SetBool("isRunning", false);
     }
 
