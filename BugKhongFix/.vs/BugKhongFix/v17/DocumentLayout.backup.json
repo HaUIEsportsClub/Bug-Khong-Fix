@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Bug-Khong-Fix\\BugKhongFix\\",
+  "WorkspaceRootPath": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|d:\\bug-khong-fix\\bugkhongfix\\assets\\script\\connectdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\connectdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|d:\\bugkhongfix\\bug-khong-fix\\bugkhongfix\\assets\\script\\home\\uihome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\home\\uihome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|d:\\bugkhongfix\\bug-khong-fix\\bugkhongfix\\assets\\script\\sound\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sound\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|d:\\bugkhongfix\\bug-khong-fix\\bugkhongfix\\assets\\script\\nextmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\nextmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|d:\\bugkhongfix\\bug-khong-fix\\bugkhongfix\\assets\\script\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|d:\\bugkhongfix\\bug-khong-fix\\bugkhongfix\\assets\\script\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|d:\\bugkhongfix\\bug-khong-fix\\bugkhongfix\\assets\\script\\item\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452124E3-585B-16C8-503E-CD702263FE1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConnectDoor.cs",
-              "DocumentMoniker": "D:\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\ConnectDoor.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\ConnectDoor.cs",
-              "ToolTip": "D:\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\ConnectDoor.cs",
-              "RelativeToolTip": "Assets\\Script\\ConnectDoor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "UIHome.cs",
+              "DocumentMoniker": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Home\\UIHome.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Home\\UIHome.cs",
+              "ToolTip": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Home\\UIHome.cs",
+              "RelativeToolTip": "Assets\\Script\\Home\\UIHome.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:12:20.808Z",
+              "WhenOpened": "2025-03-16T10:14:33.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NextMap.cs",
+              "DocumentMoniker": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\NextMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NextMap.cs",
+              "ToolTip": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\NextMap.cs",
+              "RelativeToolTip": "Assets\\Script\\NextMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:53:24.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Door.cs",
+              "DocumentMoniker": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Door.cs",
+              "ToolTip": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Door.cs",
+              "RelativeToolTip": "Assets\\Script\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:53:05.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Key.cs",
+              "DocumentMoniker": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Key.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Key.cs",
+              "ToolTip": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Key.cs",
+              "RelativeToolTip": "Assets\\Script\\Key.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:53:02.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Sound\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Sound\\SoundManager.cs",
+              "ToolTip": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Sound\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Sound\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:42:49.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:19:42.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Item\\Chest.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Chest.cs",
+              "ToolTip": "D:\\BugKhongFix\\Bug-Khong-Fix\\BugKhongFix\\Assets\\Script\\Item\\Chest.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Chest.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:02:27.215Z",
               "EditorCaption": ""
             }
           ]

@@ -4,14 +4,12 @@ using UnityEngine;
 
 public class SoundManager : Singleton<SoundManager>
 {
-    //[SerializeField] private List<AudioClip> listSound;
-    [SerializeField] private AudioSource soundRun;
-    [SerializeField] private AudioSource soundBackGround;
-    [SerializeField] private AudioSource soundKey;
- 
-    [SerializeField] private AudioSource soundCLock;
-    [SerializeField] private AudioSource soundRoom;
 
+    [SerializeField] private AudioSource soundBackGround;
+    [SerializeField] private AudioSource soundCLock;
+
+
+    [SerializeField] private AudioClip audioKey;
     private void Start()
     {
         SoundManager.Instance.PlaySoundBack();
@@ -22,13 +20,5 @@ public class SoundManager : Singleton<SoundManager>
         soundCLock.Play();
     }
 
-    public void PlayRunning()
-    {
-        soundRun.Play();
-    }
 
-    public void StopRunning()
-    {
-        soundRun.Stop();
-    }
 }

@@ -10,6 +10,7 @@ public class Key : MonoBehaviour
     {
         if(collision.CompareTag("Player"))
         {
+            //SoundManager.Instance.PlayKey();
             uikey.Keys++;
             uikey.SetKey(indexKey);
 

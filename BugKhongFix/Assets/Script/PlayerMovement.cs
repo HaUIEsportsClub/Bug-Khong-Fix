@@ -33,7 +33,6 @@ public class PlayerMovement : MonoBehaviour
         rb.velocity = playerInput.normalized * moveSpeed * Time.deltaTime;
         if (playerInput != Vector2.zero)
         {
-            SoundManager.Instance.PlayRunning();
             animator.SetBool("isRunning", true);
             animator.SetFloat("moveX", Input.GetAxisRaw("Horizontal"));
             animator.SetFloat("moveY", Input.GetAxisRaw("Vertical"));
@@ -45,7 +44,7 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             animator.SetBool("isRunning", false);
-            SoundManager.Instance.StopRunning();
+           
         }
     }
     private void OnTriggerEnter2D(Collider2D collision)
