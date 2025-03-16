@@ -1,17 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class UIGameOver : MonoBehaviour
+public class UISetting : MonoBehaviour
 {
-    [SerializeField] private Button btnBack;
+    [SerializeField] private GameObject menuSetting;
+    [SerializeField] private Button btnContinue;
     [SerializeField] private Button btnAgain;
+    [SerializeField] private Button btnBack;
 
     private void Start()
     {
+        btnContinue.onClick.AddListener(delegate
+        {
+            GameController.Instance.GameContinue();
+            menuSetting.SetActive(false);
+        });
         btnAgain.onClick.AddListener(delegate
         {
             SceneManager.LoadSceneAsync("Map1");
