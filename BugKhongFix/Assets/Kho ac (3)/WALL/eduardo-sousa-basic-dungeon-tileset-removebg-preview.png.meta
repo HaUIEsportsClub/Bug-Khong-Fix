@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,7 +121,4123 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a6c5ec24e50c14b81bdd2fcef0fb97
+      internalID: 159553420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4e554febb1a5149857994014b511d5
+      internalID: -1595311672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d9c413d1345694b90d522463232f42
+      internalID: 2059645531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e211339303ee419b9b64d1039e434
+      internalID: -586274692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01468eab6c4a8248b34d88a43431057
+      internalID: -909808050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a269c9c44acc21e4f8a0831c3bb7bc38
+      internalID: 1789999998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84190bbf89b63394c8d7e7654fc3bdcc
+      internalID: 1688068664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb52090e33084840bfce69dc67423cd
+      internalID: 1204022912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6b101e2d70ea848b80a9ea08c62e71
+      internalID: 1207904779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f22190c71c0f048b2853ff714afbe3
+      internalID: 646513099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29478d2bd0b3ec54eb1e86a448442dd7
+      internalID: -1814394811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb7bd0fe9223e749af813e83cbf5952
+      internalID: -1488638973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ae21444f4aa144afc7276a9934381
+      internalID: 200718449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c59927e443054b94df1e4cee24098
+      internalID: 1536376291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff554b91ec44a145b02640a276c03a4
+      internalID: -1922954392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c15a3f414c40447a7ba7305887a00a
+      internalID: -1540367103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba18b7c7b6326ae4bb7b8ae22fcd5b82
+      internalID: 116578033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca918b0247b03438089f1836dfb7a9
+      internalID: -647590882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb00a1935326a045b35728b79ee5217
+      internalID: -704324644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671c1883ae879224aac0a76150faa654
+      internalID: 2092964051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab4523dd4dea7b4189969a18c194761
+      internalID: 286542587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d32eb85011a22c4bb9ab37bb897438c
+      internalID: -387196375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c8ee45c7b5ff049a6d77ccb90e3ad2
+      internalID: -836695033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ab78dfd778ea498be3798ab2ac11c
+      internalID: -156569268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ff0ad6b234f804fa1af3793c561979
+      internalID: -140828240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683443b3716e2f84a8d16196f3c4106e
+      internalID: -2093761412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a331da2d74ad4386d4b4996bf42b9
+      internalID: -511747931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5bd13d74cad224aafbbd370eeb501e
+      internalID: 1610139312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caba434102916e4393f557a503bcaea
+      internalID: 663773896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f72145948f2734fb222a5cd98a66de
+      internalID: 152743817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f5cf76c7224245b551c6947bd22c3
+      internalID: 1881150475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5df2218b43baa459228785611b2658
+      internalID: 874339461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eab323cf89e575449ab652e8ec3101f
+      internalID: -1346757209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897adedf6680855499946f70908c1525
+      internalID: -995353382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca80083ae509b14ba8121c1434222a1
+      internalID: 234031314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8d5ad69bf3bc3468d0aac01f741866
+      internalID: -98482518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f67a32f5ba5e4eb3fb3f24ec10fbb
+      internalID: 817458099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba921f0ab78a974082bc88e255281ab
+      internalID: 1824985500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4c0280f944a19488eaf4fe7676629a
+      internalID: -1208083178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b61987b49aaf4e45baca77bb693211e
+      internalID: -1996696913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58f5131614079c47a21e6c42aecf0f6
+      internalID: 1982620620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19860d2858c40a47bbb9913307c28d0
+      internalID: -1666808130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f7359b8cbdc5408297745ae499a24
+      internalID: 1169137581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106cc6730dfd9184890c02ea588bc36c
+      internalID: -650780376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345a40bf7af4a7744901fb0b8b2dc2ea
+      internalID: -893236100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7ba1a6783c4594b9fc6da73e0f57a9
+      internalID: 495758093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f7d070247c674488652531c9ce7c76
+      internalID: -1229470755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6061e03ff0a7448468a1f3ff816b7c2a
+      internalID: -276858537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa14111e916c834fab3a81319ee92df
+      internalID: -1738640282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f2ced264a72fa4c95ad2ea0a7f9be4
+      internalID: 1704761815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9199550d128d1ad40a7671c02e3f5822
+      internalID: 1905856582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c87decc817480d489c4b4b83c81c4a6
+      internalID: 1757428771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eab5a746046057478b6f6396be68f59
+      internalID: -2012848518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8568471e8bbfb4d42b42772008ba372e
+      internalID: 1675797834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ebd894cde07da4ea1a61c659fccbf4
+      internalID: -609589440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0203912848f6604f8f941415e0c9221
+      internalID: -168028319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b40ca0322b0d44cbbd89c5e5e6be01
+      internalID: -1913428269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b28dcf6d8ed9f344aa43120dea3f976
+      internalID: -998661232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42604f729e6159c44ba9a58c833cbca1
+      internalID: 149195761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd6652b816fa14d8c54ff9196afb02
+      internalID: -286151748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d8caa4d9ff9ab4aa9e5e79fecfbaaf
+      internalID: 769126246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44ecf4d79664774ebc2fc593d603caa
+      internalID: -2059589461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df51bcdb70417e4d9f66052d75690ca
+      internalID: 1101944002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ce7f2c7a452fa4090676df66a02507
+      internalID: -1659406678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92572d2b114bcf409113eafed861d85
+      internalID: 839631115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a86c2d7a04a464b9553b29db19390f
+      internalID: 1681346475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12974495591e9f94fa6d695b0595ac02
+      internalID: -1644520869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cecbe7ff5e26b849b65817e81af6650
+      internalID: 2146242667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd914a693f1ab2642a4f6b7dcf5ca4f3
+      internalID: -1317494500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 308
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb336135058af4782febd7c88a4a02
+      internalID: -763599050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fc89366fc3c4447af38abaff0e6a9a
+      internalID: 407251824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f73993f117cd4798e9dcc3f279f16
+      internalID: -808296366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2990049d57732684ead201479d0821e1
+      internalID: 831766208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d730ebcdcb92de749b60e7502a7ce1cf
+      internalID: -1890873446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9ffa9c8d4fd9741be25ac6cf651ff2
+      internalID: -2002858560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098e123cab8492541a86400959c7e9e2
+      internalID: 1800369266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e4fa6211173d34288d38e90b885bce
+      internalID: 567988787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aa3627dfc435c478f825fdcdc2d6cb
+      internalID: 176124713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef526beec445d04f8315cd84cb51f1d
+      internalID: 1900128773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958dab4504cd56f4095402eeae82dab7
+      internalID: -764416969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8d643862afb3c40b4dbe679ab055ec
+      internalID: 1681109637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a19ff29ffa1cc446bf7fe91c068a98e
+      internalID: 1557464137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056a04111f85b2e4ab7e6a6c9d20248d
+      internalID: -1029205710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0edda0de0f2d54a859f62dc8ee3b32
+      internalID: -2086997670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055fee95d9bd93346aaa8d0d9cde5cff
+      internalID: -1229206390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d750dbe67665a945855894ae55e6036
+      internalID: -1584852296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7b3d4db8afd0b45b694b8aefbd006c
+      internalID: 1894267959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408471439e951de44a92721b52f25516
+      internalID: -1042088996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203a065c255ec44cbdeef5971dc1ca7
+      internalID: 1165392106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f78e9432112f478b024f126ff4d49
+      internalID: 1526403100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703874fcb55b3404f82cfe7319d978fb
+      internalID: 409858770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18de77ab6efc01b4e9e93c72b1e60868
+      internalID: -497213530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e633d885793349a2fa56554f6cdf6
+      internalID: 89865082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b7129e212f8c044b2c7b93f79229c6
+      internalID: 651017495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72404f1fc8549e448a66ef617fa51541
+      internalID: 1716617264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9213cf2956128964bbcd408c5fe57873
+      internalID: 976358010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5b9e8cfbdbde4479ef4829db5d9dbf
+      internalID: 972345690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 244
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43080fb4bfb5ccb4796e872fba64cab4
+      internalID: 1318544735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb66007165065240b2a0acbc00a60be
+      internalID: -1308852541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fcad8405626104a92fea1958fe928f
+      internalID: -1322369983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d8d2278e6558948a91ba3b969491b0
+      internalID: 1390695226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f3a6070eb3cf45aae74e07725bdbe
+      internalID: 1370223405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1426e73ca1260ed4e8dab54a6f748cbe
+      internalID: 2036760791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0bb566768e6dc40beb69babce2e9ec
+      internalID: 598239166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504e41af08c4df74a91361c43347cdc3
+      internalID: 366811352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd9369968a250429b54d06bfaa88ae
+      internalID: -1791761017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430a8120c58a8d149b6a24fc435a676d
+      internalID: 664591385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace137442bdf4cf478e19dde7a6a3b8d
+      internalID: -590869140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a4d7767c9ee42499809136cd7667b6
+      internalID: 90415073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fa8a025f9abf54b91072bc17b5da61
+      internalID: 1288318220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703964642183e874fae9d6c3810ec396
+      internalID: 999793226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a0c8ee4278b3f4d96ecf48c98d77a8
+      internalID: -1617552261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce54b9b6b49e17b42a822dd9cbeb6050
+      internalID: -1003039127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c517dc4892011ef428fac7209643570e
+      internalID: -635814898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f52f617a7feb3469f073e89b7cc2f9
+      internalID: 1757683131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cb82d212661fd419e7bda359e58f3f
+      internalID: -718275050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2612abd2ee9d4b4c8c12f8647e3f2d0
+      internalID: 671086844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e67715e0206f5049937339986067344
+      internalID: -1469158799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62417191927392048b8d10d94ccbe48e
+      internalID: 2121158531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a67686857fe174ca81dcf4e691cc86
+      internalID: 651007717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232cdc5cd8181e648926ce76f4f41691
+      internalID: -370542936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121a8ab0cc206646b8c0deec0f7eab8
+      internalID: 1351906979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf028c5c8782e1d4cb088dcdfbb3de4f
+      internalID: 2145424964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a038f2fa196324db24bf9c7b5632da
+      internalID: 1021482727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84198e4616727c498c48476a4e1328c
+      internalID: 402703685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 180
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef67a82027fd91a4b93ee3c8b935c1df
+      internalID: 1335920008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e539ad581622d48a67ca680801c50f
+      internalID: -2007636784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6786a76b4363a4d894c8af49cb4945
+      internalID: 330512231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21946a1adf0060749b592f8d2564e156
+      internalID: -1161375816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47df7ecd7d87c2b4683c80386fede15a
+      internalID: 424136235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841c83a6dbbb6c04db2ff75336795a28
+      internalID: -623399329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b1ca8821c961646a6ed9e0ea7e29be
+      internalID: -164333141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c2f7ee95e1f84da23d2da893b3b42
+      internalID: 1660091205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70ecc1730b8f54996c71b44e7499cc
+      internalID: 537903683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29948ed4791ea48ab8d67478e75b45
+      internalID: -1715182809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba3ebf02ee8084db796e4851e7b9e1
+      internalID: -793230280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73852b5cbbfda4da818b8c5e58d21a
+      internalID: 1835685665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4445e6359ae41449020f3d81f5e450
+      internalID: -1874133536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c7f0ac44dbf6642a31a58bf903af3b
+      internalID: -1636931808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83648842b8436bc4289ded124b36dc81
+      internalID: 628253829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dcacea2d9be2d4cbdc96bebb8e5dd4
+      internalID: -1061462359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb3c2929852508439dfc8659af9e1df
+      internalID: 1662898287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436b67ec8ab79a4ab8a3309e08b1c16
+      internalID: 494558033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befc201ee6754c24cb262deb83a31c4c
+      internalID: 730820805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb385bbd150c684abaa7d93d246c1aa
+      internalID: -1803964607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4789e2fe5a0fa1458082fa63ea9dbe2
+      internalID: 282244891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f0dde3f5793543ba31f643bf18f82
+      internalID: -764467372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad367789415724342af6944faf55c1ac
+      internalID: -365340154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a1cc37c960654992902b87851bef2
+      internalID: -882569114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea6a3563674cde44bab410ae46593ec
+      internalID: -371020014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad4e30649c672748b88a03cd99e02dd
+      internalID: -1459492341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd165333e19ae9f40bc9d9001211654d
+      internalID: 28877624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668199be59d393444a0ba073cdeab4f9
+      internalID: 1875084227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5132587a7f91448a63846369570c00
+      internalID: 1194456958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee37e8df0ffe554a8bbd0c910320666
+      internalID: 1865325247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012829733aea3140976915ac49eac8f
+      internalID: 2066501007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff2df4bf12cf074d9dd7668bcbaac8b
+      internalID: -1445965371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05e542f8e6d09447940067bdabd559f
+      internalID: 929798650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07298c3650d1dcc43b397126e7c933aa
+      internalID: -1959697308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8b17b0fb35d2469ab7ce804166582
+      internalID: -908379609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa156b70cfa02148acdc003e49cfd55
+      internalID: 733694829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9313b100f78b7164ca6fb8c5b868c0ca
+      internalID: -292347283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ea75eb612f75141a3fe0a347cc2c43
+      internalID: 23286506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02690a66c21a6d0478182c54b2698f9b
+      internalID: 393318516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d0e9ee69632245bae9395987e715b
+      internalID: 808698910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b36b87b650fa44f8af50913489ba68
+      internalID: 1315758203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7f648273d301469eebe7e67661a16
+      internalID: 902845909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1629c7bc121d44b9ab661e474218c
+      internalID: 833543812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3153d655c3ac44b8d9a3cd63aa92a0
+      internalID: -1838983095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bcf174c94ef2940b8a37924be9703a
+      internalID: 628829517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79988acec8c3e6740be02a5fea9e0ecd
+      internalID: -89643295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de915af9dec0cbf41bbc54e9e2cb700c
+      internalID: -679416881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8712fecb7b240541a092d5e8ff379ae
+      internalID: -1409101620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d518faacc69d846bcdd94854dfb935
+      internalID: -1612663299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9947367177730e40beada5c8e21e46f
+      internalID: -468672598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b684977e593f4b8a8f8cf8dad87a1
+      internalID: -679904988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae539e1451e86545980e890aecc186c
+      internalID: -1625414267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df29d663eb57a4549ac0ab084193c936
+      internalID: -210963842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b74f139051d5c4f8639d8ea73a8268
+      internalID: -1236725667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b64d8cac58cf5645920acaa40946685
+      internalID: -1430449461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce929e314f2e6a4c97ee6d25aa8c64e
+      internalID: 1063473313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2a19efee11b344da6d94b30525fca2
+      internalID: -1668989495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e0d3d2a7ea40c46accba54de1cba3f
+      internalID: 148783588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aef7d4d61c2ef4784f86cc96c68dd3
+      internalID: 284493931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac916c1efd5fe114da511646bf6ebb62
+      internalID: -503376577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ff9c3f899a36a4d8c8010f12102d42
+      internalID: 174150038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833265573a1c8a749bbadadf73b1e841
+      internalID: -613986951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ef4cd040bf71d41a7ecc99e632ee5b
+      internalID: 207141014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ce8bb9f68229b4990c03eedeca5fb2
+      internalID: 1716404296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_189
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b812756e319f9774eb27eacfa5e76377
+      internalID: 1328163184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_190
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a57269112de048949eeac920b267b
+      internalID: -632334073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_191
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc730ce3e5ca874783177c7de4a5bc8
+      internalID: -1231907805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_192
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac104f759329e94aab18c9d8b35c770
+      internalID: -536196337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_193
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804b064581a6bf489e8fc513fc68e60
+      internalID: -291223222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_194
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46ebd8c427839944970f83d08360256
+      internalID: -834885569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eduardo-sousa-basic-dungeon-tileset-removebg-preview_195
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d54d4e6f7894148aa131a6462af896
+      internalID: 845959467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +4248,203 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_0: 159553420
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_1: -1595311672
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_10: -1814394811
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_100: 1390695226
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_101: 1370223405
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_102: 2036760791
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_103: 598239166
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_104: 366811352
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_105: -1791761017
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_106: 664591385
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_107: -590869140
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_108: 90415073
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_109: 1288318220
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_11: -1488638973
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_110: 999793226
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_111: -1617552261
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_112: -1003039127
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_113: -635814898
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_114: 1757683131
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_115: -718275050
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_116: 671086844
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_117: -1469158799
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_118: 2121158531
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_119: 651007717
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_12: 200718449
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_120: -370542936
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_121: 1351906979
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_122: 2145424964
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_123: 1021482727
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_124: 402703685
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_125: 1335920008
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_126: -2007636784
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_127: 330512231
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_128: -1161375816
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_129: 424136235
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_13: 1536376291
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_130: -623399329
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_131: -164333141
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_132: 1660091205
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_133: 537903683
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_134: -1715182809
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_135: -793230280
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_136: 1835685665
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_137: -1874133536
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_138: -1636931808
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_139: 628253829
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_14: -1922954392
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_140: -1061462359
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_141: 1662898287
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_142: 494558033
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_143: 730820805
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_144: -1803964607
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_145: 282244891
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_146: -764467372
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_147: -365340154
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_148: -882569114
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_149: -371020014
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_15: -1540367103
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_150: -1459492341
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_151: 28877624
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_152: 1875084227
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_153: 1194456958
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_154: 1865325247
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_155: 2066501007
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_156: -1445965371
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_157: 929798650
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_158: -1959697308
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_159: -908379609
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_16: 116578033
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_160: 733694829
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_161: -292347283
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_162: 23286506
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_163: 393318516
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_164: 808698910
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_165: 1315758203
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_166: 902845909
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_167: 833543812
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_168: -1838983095
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_169: 628829517
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_17: -647590882
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_170: -89643295
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_171: -679416881
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_172: -1409101620
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_173: -1612663299
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_174: -468672598
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_175: -679904988
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_176: -1625414267
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_177: -210963842
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_178: -1236725667
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_179: -1430449461
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_18: -704324644
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_180: 1063473313
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_181: -1668989495
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_182: 148783588
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_183: 284493931
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_184: -503376577
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_185: 174150038
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_186: -613986951
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_187: 207141014
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_188: 1716404296
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_189: 1328163184
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_19: 2092964051
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_190: -632334073
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_191: -1231907805
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_192: -536196337
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_193: -291223222
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_194: -834885569
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_195: 845959467
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_2: 2059645531
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_20: 286542587
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_21: -387196375
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_22: -836695033
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_23: -156569268
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_24: -140828240
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_25: -2093761412
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_26: -511747931
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_27: 1610139312
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_28: 663773896
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_29: 152743817
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_3: -586274692
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_30: 1881150475
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_31: 874339461
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_32: -1346757209
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_33: -995353382
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_34: 234031314
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_35: -98482518
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_36: 817458099
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_37: 1824985500
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_38: -1208083178
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_39: -1996696913
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_4: -909808050
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_40: 1982620620
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_41: -1666808130
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_42: 1169137581
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_43: -650780376
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_44: -893236100
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_45: 495758093
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_46: -1229470755
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_47: -276858537
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_48: -1738640282
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_49: 1704761815
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_5: 1789999998
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_50: 1905856582
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_51: 1757428771
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_52: -2012848518
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_53: 1675797834
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_54: -609589440
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_55: -168028319
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_56: -1913428269
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_57: -998661232
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_58: 149195761
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_59: -286151748
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_6: 1688068664
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_60: 769126246
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_61: -2059589461
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_62: 1101944002
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_63: -1659406678
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_64: 839631115
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_65: 1681346475
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_66: -1644520869
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_67: 2146242667
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_68: -1317494500
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_69: -763599050
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_7: 1204022912
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_70: 407251824
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_71: -808296366
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_72: 831766208
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_73: -1890873446
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_74: -2002858560
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_75: 1800369266
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_76: 567988787
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_77: 176124713
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_78: 1900128773
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_79: -764416969
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_8: 1207904779
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_80: 1681109637
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_81: 1557464137
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_82: -1029205710
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_83: -2086997670
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_84: -1229206390
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_85: -1584852296
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_86: 1894267959
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_87: -1042088996
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_88: 1165392106
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_89: 1526403100
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_9: 646513099
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_90: 409858770
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_91: -497213530
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_92: 89865082
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_93: 651017495
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_94: 1716617264
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_95: 976358010
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_96: 972345690
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_97: 1318544735
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_98: -1308852541
+      eduardo-sousa-basic-dungeon-tileset-removebg-preview_99: -1322369983
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
