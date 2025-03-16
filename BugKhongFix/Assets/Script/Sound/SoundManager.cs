@@ -12,7 +12,7 @@ public class SoundManager : Singleton<SoundManager>
     {
         get => this.listSound;
     }
-    private void Awake()
+    private void Start()
     {
         SoundManager.Instance.PlaySoundBack();
 

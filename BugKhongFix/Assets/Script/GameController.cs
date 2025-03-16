@@ -58,4 +58,14 @@ public class GameController : Singleton<GameController>
             this.UiGameOver.SetActive(true);
         }
     }
+
+    public void GamePause()
+    {
+        Time.timeScale = 0;
+    }
+
+    public void GameContinue()
+    {
+        Time.timeScale = 1;
+    }
 }

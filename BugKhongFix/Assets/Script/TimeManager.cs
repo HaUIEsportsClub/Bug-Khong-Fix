@@ -14,7 +14,7 @@ public class TimeManager : Singleton<TimeManager>
     [SerializeField] public float seconds;
     [SerializeField] private TextMeshProUGUI textTime;
 
-    private void Awake()
+    private void Start()
     {
         currentTime = startTime;
         LoadTime();
