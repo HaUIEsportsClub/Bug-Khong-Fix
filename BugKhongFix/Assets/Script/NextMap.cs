@@ -10,7 +10,7 @@ public class NextMap : MonoBehaviour
     {
         if(collision.CompareTag("Player"))
         {
-            //if(this.uIKey.Keys == 3)
+            if(this.uIKey.Keys == 3)
             {
                 SceneManager.LoadSceneAsync("Map2");
             }
